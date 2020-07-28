@@ -5,7 +5,8 @@ Here I have created a SpringBoot application which hosts REST API Endpoints requ
 
 After starting the program in your local you may access those APIs via http://localhost:8080/ with the below Basic Auth Credentials
 
-Username = admin
+Username = admin,
+
 Password = admin
 
 
